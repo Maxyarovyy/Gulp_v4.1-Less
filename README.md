@@ -1,1 +1,1 @@
-#Простенька збірка GULP під LESS
+#Фінальна збірка GULP (less, sass, scss, pug, coffee, typescript)
